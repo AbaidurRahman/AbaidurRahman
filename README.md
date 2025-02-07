@@ -2,7 +2,7 @@
  <img  width="800" height="400" src="https://github.com/AbaidurRahman/AbaidurRahman/blob/main/abaid.gif">
 </p>
 <h2 align="center">Hello there! My name is Abaid ur Rahman. 👋🤓</h2>
-<p align="center">I'm a Machine Learning Engineer. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in how we can use machine learning, computer vision, signal processing, and deep learning I've been exploring the field of health and medicine as well ✨ and hope to contribute to that field as well. 
+<p align="center">I'm a Machine Learning Engineer. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in how we can use machine learning, computer vision, signal processing, and deep learning. I've been exploring the field of health and medicine as well ✨ and hope to contribute to that field as well. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me reading manhwa, watching Netflix, Sports or listening to music. Playing football :soccer:, karate 🥋, travelling 🚅 is on the list. Memes are something that are appreciated very much 😂. </p>
