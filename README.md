@@ -1,27 +1,23 @@
 <p align="center">
- <img  width="800" height="400" src=["https://tenor.com/view/hello-sign-my-name-hannover-gif-25946732">
+ <img  width="800" height="400" src=["https://github.com/user-attachments/assets/4b67b852-37f9-454b-af79-3c13a570285f">
 </p>
 <h2 align="center">Hello there! My name is Abaid ur Rahman. 👋🤓</h2>
 <p align="center">I'm a Machine Learning Engineer. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in how we can use machine learning, computer vision, signal processing, and deep learning I've started exploring the field of Embedded & Edge AI as well ✨ and hope to contribute to that field as well. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer:, karate 🥋, travelling 🚅 is on the list. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not developing and coding, you can find me reading manhwa, watching Netflix, Sports or listening to music. Playing football :soccer:, karate 🥋, travelling 🚅 is on the list. Memes are something that are appreciated very much 😂. </p>
 
 <p align="center"><a href="www.linkedin.com/in/abaid-sheykh"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 <p align=center>
   <a href="https://github.com/AbaidurRahman">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/Abaidurrahman/tab=repositories&color=black&logo=github">
   </a>
   <a href="https://github.com/AbaidurRahman?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/Abaidurrahman&color=black&logo=github">
   </a>
-</p>
 <p align="center">
-<a href="https://github.com/Terabyte17"><img src="https://img.shields.io/github/followers/Terabyte17?style=social"></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> <img src="https://img.shields.io/badge/Dockers-voilet">
 </p>
 <hr>
 <p align="center">
@@ -29,7 +25,7 @@
 </p>
 
 <p align=center>  
-  <img align=center src="https://github-readme-stats.vercel.app/api?username=Terabyte17&show_icons=true&theme=radical">
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=Abaidurrahman&show_icons=true&theme=radical">
 </p>
 
 
