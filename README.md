@@ -57,7 +57,7 @@
   <img align=center src="https://github-readme-stats.vercel.app/api?username=Abaidurrahman&show_icons=true&theme=radical">
 </p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AbaidurRahman/AbaidurRahman/blob/main/snake.yaml" alt="Snake animation" />
 
 ###
 
